@@ -1,0 +1,30 @@
+#header {
+    width: 100%;
+}
+img#productImg{
+    width: 45%;
+
+}
+
+.price{
+    font-size: 1.8rem;
+}
+
+i#addToCart {
+    font-size: 2rem;
+    color: white;
+}
+#basket {
+    position: relative;
+    max-height: 329px;
+}
+#totalCost {
+    position: absolute;
+    left: 0;
+    bottom:0;
+    background-color: orange;
+    font-size: 22px;
+    padding: 10px;
+    width:100%;
+    
+}
